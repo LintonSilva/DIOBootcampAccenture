@@ -1,3 +1,4 @@
+package Fundamentos;
 /* Exercício 3 de Fundamentos de programação em Java
    Escreva um código que receba a base e a altura um retângulo,
    calcule sua área e exiba na tela:

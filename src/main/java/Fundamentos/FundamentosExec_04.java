@@ -1,3 +1,4 @@
+package Fundamentos;
 /* Exercício 4 de Fundamentos de programação em Java
    Escreva um código que receba o nome e a idae de duas pessoas e imprima a
    diferença de idade entre elas. */

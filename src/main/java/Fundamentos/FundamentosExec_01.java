@@ -1,3 +1,4 @@
+package Fundamentos;
 /* Exercício 1 de Fundamentos de programação em Java
  Escreva um código que receba o nome e o ano de nascimento de alguém
  e imprima na tela a seguinte mensagem : "Ola "Fulano" você tem "X" anos.  */
